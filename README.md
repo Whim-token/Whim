@@ -8,12 +8,12 @@ Inicio ICO: 15 de diciembre de 2018
 Fin ICO: Al llegar a los 12,000,000.0000000000 de monedas en el mercado.  
 Etherscan: https://etherscan.io/token/0x41e7f88f5a4580bf62b10bac098f45979e3c86e0   
 Website:   
-Twitter:   
+Twitter: https://twitter.com/Whim_Oficial  
 Discord: https://discord.gg/qhRHU9G   
 bitcointalk:  
-Facebook:   
+Facebook: https://www.facebook.com/Whimtoken  
 Linkedin: https://www.linkedin.com/company/whim-token  
 Reddit: https://www.reddit.com/user/Whim_Token    
-Instagram:   
-YouTube:   
+Instagram: https://www.instagram.com/whim_oficial/    
+YouTube: https://www.youtube.com/channel/UCY8CIuuK_hUZq4cNe0KSrVg?disable_polymer=true  
 Contact mail: contact@whimtoken.com  
