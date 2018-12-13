@@ -9,7 +9,7 @@ Fin ICO: Al llegar a los 12,000,000.0000000000 de monedas en el mercado.
 Etherscan: https://etherscan.io/token/0x41e7f88f5a4580bf62b10bac098f45979e3c86e0   
 Website:   
 Twitter:   
-Discord:   
+Discord: https://discord.gg/qhRHU9G   
 bitcointalk:  
 Facebook:   
 Linkedin:   
