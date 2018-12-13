@@ -13,7 +13,7 @@ Discord: https://discord.gg/qhRHU9G
 bitcointalk:  
 Facebook:   
 Linkedin:   
-Reddit:   
+Reddit: https://www.reddit.com/user/Whim_Token    
 Instagram:   
 YouTube:   
 Contact mail: contact@whimtoken.com  
