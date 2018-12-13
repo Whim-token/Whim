@@ -12,7 +12,7 @@ Twitter:
 Discord: https://discord.gg/qhRHU9G   
 bitcointalk:  
 Facebook:   
-Linkedin:   
+Linkedin: https://www.linkedin.com/company/whim-token  
 Reddit: https://www.reddit.com/user/Whim_Token    
 Instagram:   
 YouTube:   
