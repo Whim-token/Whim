@@ -10,7 +10,7 @@ Etherscan: https://etherscan.io/token/0x41e7f88f5a4580bf62b10bac098f45979e3c86e0
 Website:   
 Twitter: https://twitter.com/Whim_Oficial  
 Discord: https://discord.gg/qhRHU9G   
-bitcointalk:  
+bitcointalk: https://bitcointalk.org/index.php?topic=5085419.msg48689884#msg48689884  
 Facebook: https://www.facebook.com/Whimtoken  
 Linkedin: https://www.linkedin.com/company/whim-token  
 Reddit: https://www.reddit.com/user/Whim_Token    
