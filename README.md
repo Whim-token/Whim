@@ -7,7 +7,7 @@ cantidad inicial: 8,000,000.0000000000
 Inicio preventa: 21 de diciembre de 2018  
 Fin preventa: Al llegar a los 12,000,000.0000000000 de monedas en el mercado.  
 Etherscan: https://etherscan.io/token/0x41e7f88f5a4580bf62b10bac098f45979e3c86e0   
-Website:   
+Website: https://whimtoken.com  
 Twitter: https://twitter.com/Whim_Oficial  
 Discord: https://discord.gg/qhRHU9G   
 bitcointalk: https://bitcointalk.org/index.php?topic=5085419.msg48689884#msg48689884  
